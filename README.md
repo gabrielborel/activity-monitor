@@ -1,0 +1,3 @@
+This project is to build a cross-platform app, an activity monitor app to monitor the apps running, mem usage, cpu usage and stuff...
+Later maybe add some more features like network usage, battery usage, etc.
+I'll also use this project on my daily linux machine.
